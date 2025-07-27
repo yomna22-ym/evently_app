@@ -49,7 +49,7 @@ The app uses **Firebase** for:
 - Flutter
 - Firebase (Auth, Firestore, Storage)
 - Provider for state management
-- Localization (Intl)
+- Localization
 - Clean Architecture
 - GitHub Actions (CI/CD)
 - YAML for configuration
