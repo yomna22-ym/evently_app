@@ -33,7 +33,7 @@ The app uses **Firebase** for:
 
 <p align="center">
   <img src="assets/Create%20Event%20(1).png" alt="Create Event 1" width="220"/>
-  <img src="assets/event.png" alt="Event Details" width="220"/>
+  <img src="assets/Create%20Event.png" alt="Create Event" width="220"/>
 </p>
 
 <p align="center">
