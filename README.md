@@ -50,7 +50,6 @@ The app uses **Firebase** for:
 - Firebase (Auth, Firestore, Storage)
 - Provider for state management
 - Localization
-- Clean Architecture
 - GitHub Actions (CI/CD)
 - YAML for configuration
 
