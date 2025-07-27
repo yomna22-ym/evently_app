@@ -29,7 +29,7 @@ The app uses **Firebase** for:
 
 ---
 
-## 🎨 App UI Screenshots
+## 🎨 Some Of App UI Screenshots
 
 <p align="center">
   <img src="assets/Create%20Event%20(1).png" alt="Create Event 1" width="220"/>
