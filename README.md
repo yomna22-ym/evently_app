@@ -1,66 +1,66 @@
-<h1 align="center">Hi 👋, I'm Yomna Muhammed</h1>
+# 📅 Evently App
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F779B0&center=true&vCenter=true&width=435&lines=Mobile+Applications;Flutter+Developer;Fast+Learner" alt="Typing SVG" />
-</p>
+**Evently** is a mobile application built with **Flutter** that allows users to:
+- Create and manage events
+- Delete and edit existing events
+- Explore upcoming events in a beautiful interface
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yomna22-ym&label=Profile%20views&color=F779B0&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 I'm a Computer Science graduate passionate about mobile app development.
-- 💙 I build Flutter apps that make real-world impact.
-- 🧠 Currently working on a **Skin Cancer Detection App** using AI (TFLite + FastAPI).
-- 🌱 Learning Clean Architecture, API Integration, and App UI/UX design.
-- 💬 Ask me about Flutter, Firebase, Dart, or Clean MVVM apps.
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yomna-muhammed-78b31535b) | yomnamuhammed984@gmail.com
+The app uses **Firebase** for:
+- Authentication (sign up / login / password reset)
+- Firestore database to store events
+- Firebase Storage to upload images
 
 ---
 
-### 🛠 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![3D Objects](https://img.shields.io/badge/3D%20Objects-FF6C37?style=for-the-badge&logo=three.js&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-4267B2?style=for-the-badge&logo=meta&logoColor=white)
-![Proftilo](https://img.shields.io/badge/Proftilo-Purple?style=for-the-badge)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub CI/CD](https://img.shields.io/badge/GitHub%20CI%2FCD-333?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=githubpages&logoColor=white)
-
-![YAML](https://img.shields.io/badge/YAML-404EED?style=for-the-badge&logo=yaml&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🌍 Features
+- 🔐 **Authentication with Firebase** (Register / Login / Forget Password)
+- 🗓️ **Event creation, deletion & management**
+- 🎨 **Light/Dark Theme switching**
+- 🌐 **Language switching (English/Arabic)**
+- 📱 Modern and clean **UI/UX design**
 
 ---
 
-### 📊 GitHub Stats
+## 🖼️ Cover Design
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yomna22-ym&show_icons=true&theme=radical&hide_border=true&hide_rank=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yomna22-ym&theme=radical&hide_border=true" />
+  <img src="assets/Cover.png" alt="Evently App Cover" width="600"/>
 </p>
 
 ---
 
-### ✨ Quote
+## 🎨 App UI Screenshots
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="assets/Create%20Event%20(1).png" alt="Create Event 1" width="220"/>
+  <img src="assets/Create%20Event.png" alt="Create Event" width="220"/>
+  <img src="assets/event.png" alt="Event Details" width="220"/>
+</p>
+
+<p align="center">
+  <img src="assets/Forget%20Password%20Light.png" alt="Forget Password" width="220"/>
+  <img src="assets/Home%20Screen%20-%20Progile%20Tab%402x.png" alt="Home Profile Tab" width="220"/>
+  <img src="assets/Onboarding%20Light.png" alt="Onboarding" width="220"/>
+  <img src="assets/Registr%20Light.png" alt="Register Light" width="220"/>
+</p>
 
 ---
 
-### 🌐 Let's Connect
+## 🚀 Tech Stack
+- Flutter
+- Firebase (Auth, Firestore, Storage)
+- Provider for state management
+- Localization (Intl)
+- Clean Architecture
+- GitHub Actions (CI/CD)
+- YAML for configuration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yomna-muhammed-78b31535b)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yomnamuhammed984@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KEo4Pvzk7/?mibextid=wwXIfr)
+---
+
+## 📌 Notes
+This app supports both **light and dark themes** as well as **language switching** between Arabic and English.  
+It provides full control over events, and a smooth user experience.
+
+---
+
+Feel free to ⭐ the repository if you like it or fork it for your own use!
